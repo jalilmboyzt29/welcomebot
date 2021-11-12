@@ -1,2 +1,2 @@
-BOTNAME = "usernameofbot"
-TOKEN = "TOKEN"
+BOTNAME = "pinotiadmin_bot"
+TOKEN = "2116017227:AAH3cyBlqPyb1D6FNokR9C5L6Kloyh4VC2E"
